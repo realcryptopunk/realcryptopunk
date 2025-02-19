@@ -1,4 +1,4 @@
-### 👋 Hey, I’m Navid Rohan!
+### 👋 Hey, I’m Navid Ro!
 
 🔭 I’m currently working on **HyperEVM Products** (Optimizing blockchain infrastructure & AI-driven Web3 solutions).  
 👯 I’m looking to collaborate on **AI-driven trading strategies, blockchain scaling solutions, and Web3 SaaS startups**.  
