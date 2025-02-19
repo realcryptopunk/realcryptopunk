@@ -1,9 +1,13 @@
 ### 👋 Hey, I’m Navid !
 
-🔭 I’m currently working on **HyperEVM Products** (Optimizing blockchain infrastructure & AI-driven Web3 solutions).  
+🔭 I’m currently working on **HyperEVM Products** (Optimizing blockchain infrastructure & AI-driven Web3 solutions). 
+
 👯 I’m looking to collaborate on **AI-driven trading strategies, blockchain scaling solutions, and Web3 SaaS startups**.  
+
 🤝 I’m looking for help with **expanding my angel investing portfolio & exploring AI/Web3 venture opportunities**.  
+
 🌱 I’m currently learning **LLM fine-tuning, smart contract optimizations, and decentralized AI models**.  
+
 💬 Ask me about **algorithmic trading, AI-driven content generation, blockchain infrastructure, and DeFi strategy**.  
 
 
